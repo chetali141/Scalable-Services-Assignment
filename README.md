@@ -8,3 +8,4 @@ The application has four endpoints:
 3. Lists all the books currently available in the library.
 4. Receives a request from the user to add a new book into the library. (RequestBook.html)
 
+The application is deployed on Kubernetes and Docker.
